@@ -1,0 +1,28 @@
+name: vickye
+favicon: null
+layout_spectrum: 0.8719667501281947
+typography_spectrum: 0.52693812828511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8195750964805484
+  lightness: 0.8986618840135634
+  saturation: 0.9052132286597043
+  rhythmicContrast: 0.22684320737607777
+purpose: []
